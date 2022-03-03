@@ -1,9 +1,9 @@
 <div align="center">
-<h1>Classification of 9 varieties of Seafood using VGG-16</h1>
+<h1>Classification of 9 types of Fish using VGG-16</h1>
 </div>
 
 <h1>Project Objectives</h1>
-To implement a Convolutional Neural Network using the VGG-16 model to classify images in a dataset consisting of 9 different varities of seafood using Tensorflow and Keras libraries.
+To implement a Convolutional Neural Network using the VGG-16 model to classify images in a dataset consisting of 9 different varities of fish using Tensorflow and Keras libraries.
 
 
 <h2>Data Split</h2>
